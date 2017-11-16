@@ -25,5 +25,5 @@ Arduino DHT22 affichage sur LCD
 # Documentation
 * ![Lib DHT](https://github.com/adafruit/DHT-sensor-library)
 * ![Lib LCD](https://github.com/arduino-libraries/LiquidCrystal)
-* ![Lib LCD](https://github.com/arduino-libraries/LiquidCrystal)
+
 
