@@ -2,11 +2,8 @@
 Arduino DHT22 affichage sur LCD
 
 # Librairie 
-* Wire 
-* Adafruit_Sensor.h 
-* DHT.h 
-* DHT_U.h 
-* LiquidCrystal.h 
+* Adafruit_Sensor
+* LiquidCrystal 
 
 # Schema Fritzing
 
